@@ -4498,9 +4498,9 @@
     "source": 1
   },
   {
-    "id": 18791,
-    "name": "Ring of Honor",
-    "describe": "Sent Ring of Honor",
+    "id": 18789,
+    "name": "Lucky pony",
+    "describe": "Sent Lucky pony",
     "diamond_count": 1,
     "image": {
       "url_list": [
@@ -4521,6 +4521,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18791,
+    "name": "Ring of Honor",
+    "describe": "Sent Ring of Honor",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/30fe4cd1b7365dbf073b498c18204eed.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
@@ -4547,19 +4560,6 @@
       ]
     },
     "type": 4,
-    "source": 1
-  },
-  {
-    "id": 18789,
-    "name": "Lucky pony",
-    "describe": "Sent Lucky pony",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/30fe4cd1b7365dbf073b498c18204eed.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
